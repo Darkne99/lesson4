@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+table{
+    border: solid white;
+    margin: 40px;
+    width: 800px;
+    height: 700px;
+    background: #e94b48;
+    text-align-last: right;
+    color: white;
+    font-weight: bold;
+}
+
+
